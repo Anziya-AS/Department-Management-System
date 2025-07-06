@@ -29,7 +29,7 @@ To create a lightweight internal system that enables:
 - **Python** – for business logic
 - **MySQL** – for database management
 - **mysql-connector-python** – for Python–MySQL connectivity
-- (Optional: Tkinter or CLI interface)
+
 
 ---
 
