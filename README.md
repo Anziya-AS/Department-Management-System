@@ -40,3 +40,29 @@ To create a lightweight internal system that enables:
 ```bash
 git clone https://github.com/Anziya-AS/Department-Management-System.git
 cd Department-Management-System
+---
+
+## 🗂 Project Structure
+
+Department-Management-System/
+├── department_system.py # Main Python script with CRUD operations
+├── setup.sql # MySQL DB creation script
+├── README.md # Project documentation
+
+---
+
+## 📌 Future Enhancements
+
+- Add a GUI using Tkinter
+- Add login/user role authentication
+- Export reports to Excel or PDF
+
+---
+
+## 👩‍💻 Created By
+
+**Anziya A S**  
+📍 Kerala, India  
+💼 Data Analyst  
+📫 anziyaanzarr90@gmail.com  
+🌐 [GitHub Profile](https://github.com/Anziya-AS)
