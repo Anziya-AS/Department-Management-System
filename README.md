@@ -33,14 +33,7 @@ To create a lightweight internal system that enables:
 
 ---
 
-## 🧑‍💻 How to Set Up
 
-### 🔹 Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/Anziya-AS/Department-Management-System.git
-cd Department-Management-System
----
 
 ## 🗂 Project Structure
 
@@ -51,13 +44,6 @@ Department-Management-System/
 
 ---
 
-## 📌 Future Enhancements
-
-- Add a GUI using Tkinter
-- Add login/user role authentication
-- Export reports to Excel or PDF
-
----
 
 ## 👩‍💻 Created By
 
